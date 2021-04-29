@@ -29,7 +29,7 @@ These are the challenges under C++ on hackerrank:
 - [x] Maps-STL
 - [x] Print Pretty
 - [ ] Deque-STL
-- [ ] Inheritance Introduction
+- [x] Inheritance Introduction
 - [ ] Hotel Proces
 - [ ] CPP exception handling
 - [ ] Rectangle Area
